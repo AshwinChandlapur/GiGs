@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "364509552305",
+    "firebase_url": "https://gigafacts-8c3d7.firebaseio.com",
+    "project_id": "gigafacts-8c3d7",
+    "storage_bucket": "gigafacts-8c3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364509552305:android:bb8dc8942e7b9825",
+        "android_client_info": {
+          "package_name": "vadeworks.gigafacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364509552305-1kvkqr3c3km0dq9vt0kkugaalq4hqrei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vadeworks.gigafacts",
+            "certificate_hash": "413ca205e4c18b8dd696d4b67cd1daf006c8d23f"
+          }
+        },
+        {
+          "client_id": "364509552305-adu6duvl7tanvg0571n8nhvuq1uscg5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6Ezre7AMsCbAuOVOrwKI2DcbCnntfFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364509552305-adu6duvl7tanvg0571n8nhvuq1uscg5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

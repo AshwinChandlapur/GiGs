@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GigaFacts</string>
+
+    <string-array name="categories">
+        <item>Animals</item>
+        <item>Art</item>
+        <item>Books</item>
+        <item>Cars</item>
+        <item>Cities</item>
+        <item>Countries</item>
+        <item>Companies</item>
+        <item>Economy</item>
+        <item>Environment</item>
+        <item>Food</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>India</item>
+        <item>Inventions</item>
+        <item>Movies</item>
+        <item>People</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Tradition</item>
+        <item>World Records</item>
+        <item>World Wars</item>
+    </string-array>
+
+
+    <string-array name="category_image">
+        <item></item>
+    </string-array>
+</resources>
