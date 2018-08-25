@@ -30,21 +30,28 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.art,
             R.drawable.books,
             R.drawable.cars,
+            R.drawable.cartoons,
             R.drawable.cities,
     R.drawable.countries,
     R.drawable.companies,
-    R.drawable.economy,
-    R.drawable.environment,
+    R.drawable.fashion,
+    R.drawable.fitness,
+    R.drawable.football,
     R.drawable.food,
     R.drawable.geography,
     R.drawable.history,
     R.drawable.india,
     R.drawable.inventions,
+    R.drawable.landmarks,
     R.drawable.movies,
+    R.drawable.newyork,
     R.drawable.people,
+    R.drawable.pets,
     R.drawable.politics,
+    R.drawable.psychology,
     R.drawable.science,
     R.drawable.space,
+    R.drawable.spies,
     R.drawable.sports,
     R.drawable.technology,
     R.drawable.traditions,
@@ -76,36 +83,11 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("category_name",categories[position]);
                 intent.putExtra("category_image",imageArray[position]);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                Toast.makeText(MainActivity.this, categories[position], Toast.LENGTH_SHORT).show();
+//                Toast.makeText(MainActivity.this, categories[position], Toast.LENGTH_SHORT).show();
                 startActivity(intent);
             }
         });
 
-    animalFacts_300();
-    }
-
-    public void animalFacts_300(){
-
-        final String url = "https://www.thefactsite.com/2010/09/300-random-animal-facts.html";
-
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try{
-                    Document d= Jsoup.connect(url).get();
-
-                    Elements facts = d.select("ol").select("li");
-                    for(Element ele:facts){
-                        String fact = ele.text();
-                        String url = "";
-                        String uploadTime= Timestamp.now().toString();
-                        Log.d("facts",fact);
-                    }
-                }catch (Exception e){
-                    e.printStackTrace();
-                }
-            }
-        }).start();
     }
 
 }

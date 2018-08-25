@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background_white"
+    android:background="@color/orange"
     tools:context=".FactsDisplay.FactsDisplay">
 
 
@@ -23,7 +23,7 @@
         android:adjustViewBounds="true"
         android:background="@android:color/transparent"
         android:layout_gravity="center"
-        android:src="@drawable/icon"
+        android:src="@drawable/icon_one"
         android:id="@+id/category_image"/>
 
 

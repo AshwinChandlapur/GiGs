@@ -4,11 +4,26 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
+
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.Timestamp;
+import com.google.firebase.firestore.FirebaseFirestore;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 import vadeworks.gigafacts.MainActivity;
 import vadeworks.gigafacts.R;
@@ -18,6 +33,7 @@ public class Splash_Main_Activity extends AppCompatActivity {
 
 
     private TextView logo;
+    FirebaseFirestore db;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,15 +50,14 @@ public class Splash_Main_Activity extends AppCompatActivity {
             getWindow().setStatusBarColor(getResources().getColor(R.color.background_white)); //status bar or the time bar at the top
 
         } else {
-            Log.d("Lesser than 21 SDK", "Lesser than 21 SDK");
-            Log.d("Lesser than 21 SDK", "Lesser than 21 SDK");
             // Implement this feature without material design
         }
 
         logo = findViewById(R.id.logo);
         logo.animate().alpha(1);
+        db = FirebaseFirestore.getInstance();
 
-
+//        uploadJson();
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -51,7 +66,63 @@ public class Splash_Main_Activity extends AppCompatActivity {
                 startActivity(intent);
                 Splash_Main_Activity.this.finish();
             }
-        }, 2000);
+        }, 1000);
+    }
+
+    public String loadJSONFromAsset() {
+        String json = null;
+        try {
+            InputStream is = this.getAssets().open("animals.json");
+            int size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            json = new String(buffer, "UTF-8");
+        } catch (IOException ex) {
+            ex.printStackTrace();
+            return null;
+        }
+        return json;
+    }
+
+    public boolean uploadJson(){
+        try {
+
+            JSONArray json = new JSONArray(loadJSONFromAsset());
+            ArrayList<HashMap<String, String>> formList = new ArrayList<HashMap<String, String>>();
+            HashMap<String, String> m_li;
+            for (int i = 0; i < json.length(); i++) {
+                JSONObject jo_inside = json.getJSONObject(i);
+                String formula_value = jo_inside.getString("en");
+                String url_value = jo_inside.getString("image");
+
+                //Add your values in your `ArrayList` as below:
+                m_li = new HashMap<String, String>();
+                m_li.put("fact", formula_value);
+                m_li.put("imgUrl", url_value);
+                m_li.put("uploadTime", Timestamp.now().toString());
+                db.collection("Animals").
+                        document("Fact"+String.format("%02d", i))
+                        .set(m_li)
+                        .addOnSuccessListener(new OnSuccessListener<Void>() {
+                            @Override
+                            public void onSuccess(Void aVoid) {
+                                Log.d("xcvbn", "DocumentSnapshot successfully written!");
+                            }
+                        })
+                        .addOnFailureListener(new OnFailureListener() {
+                            @Override
+                            public void onFailure(@NonNull Exception e) {
+                                Log.w("bnm", "Error writing document", e);
+                            }
+                        });
+                formList.add(m_li);
+            }
+
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return true;
     }
 
 
@@ -62,7 +133,5 @@ public class Splash_Main_Activity extends AppCompatActivity {
         startActivity(startMain);
 
     }
-
-
 
 }

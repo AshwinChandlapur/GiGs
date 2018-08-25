@@ -6,22 +6,20 @@
     android:layout_gravity="center"
     android:gravity="center"
     android:layout_height="match_parent"
-    android:background="@color/background_white"
+    android:background="#FF7043"
     tools:context="vadeworks.gigafacts.Splash_Screen.Splash_Main_Activity">
-
-
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:fontFamily="sans-serif"
+        android:fontFamily="monospace"
         android:id="@+id/logo"
         android:gravity="center"
         android:drawableTop="@drawable/ic_launcher_medium"
         android:text="@string/app_name"
-        android:textColor="@color/colorAccent"
+        android:textColor="@color/background_white"
         android:textSize="40sp" />
 
 </LinearLayout>

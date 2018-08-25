@@ -31,6 +31,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
 
 import vadeworks.gigafacts.Facts;
 import vadeworks.gigafacts.R;
@@ -73,11 +75,16 @@ public class FactsDisplay extends AppCompatActivity {
 
 
 
+
+
         final CollectionReference collectionReference = db.collection(category_name);
+        Random r = new Random();
+        int Low = 0;
+        int High = 200;
+        int Result = r.nextInt(High-Low) + Low;
         Query query;
         query =collectionReference
-                    .orderBy("uploadTime", Query.Direction.DESCENDING)
-                    .limit(5);
+                    .limit(40);
 
 
         query.get()
@@ -91,6 +98,7 @@ public class FactsDisplay extends AppCompatActivity {
                                 String imgUrl = document.get("imgUrl").toString();
                                 Facts facts = new Facts(fact,imgUrl, Timestamp.now().toString());
                                 factsArrayList.add(facts);
+                                Collections.shuffle(factsArrayList);
                             }
 
                             if(factsArrayList.size()!=0){
@@ -115,12 +123,10 @@ public class FactsDisplay extends AppCompatActivity {
                                 @Override
                                 public void onPageSelected(int position) {
                                         if(position==factsArrayList.size()-1){
-                                            Toast.makeText(context, "End.", Toast.LENGTH_SHORT).show();
                                             Query query1;
                                             query1 =collectionReference
-                                                    .orderBy("uploadTime", Query.Direction.DESCENDING)
                                                     .startAfter(lastResult)
-                                                    .limit(5);
+                                                    .limit(40);
 
                                             query1.get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
                                                 @Override
@@ -133,7 +139,7 @@ public class FactsDisplay extends AppCompatActivity {
                                                             String imgUrl = document.get("imgUrl").toString();
                                                             Facts facts = new Facts(fact, imgUrl, Timestamp.now().toString());
                                                             factsArrayList.add(facts);
-                                                            animalFacts_300();
+                                                            Collections.shuffle(factsArrayList);
                                                             mCustomPagerAdapter.notifyDataSetChanged();
                                                         }
                                                         if(factsArrayList.size()!=0) {
@@ -161,7 +167,7 @@ public class FactsDisplay extends AppCompatActivity {
                         } else {
                             Log.d("OKOK", "Error getting documents: ", task.getException());
                         }
-                        Toast.makeText(FactsDisplay.this, "Size is"+factsArrayList.size(), Toast.LENGTH_SHORT).show();
+//                        Toast.makeText(FactsDisplay.this, "Size is"+factsArrayList.size(), Toast.LENGTH_SHORT).show();
                     }
                 });
     }

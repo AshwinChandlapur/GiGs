@@ -3,19 +3,24 @@ package vadeworks.gigafacts.FactsDisplay;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Environment;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.v4.view.PagerAdapter;
+import android.support.v7.widget.CardView;
+import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -39,11 +44,13 @@ class CustomPagerAdapter extends PagerAdapter {
 
     Context mContext;
     LayoutInflater mLayoutInflater;
+    CardView fact_parent;
     ArrayList<Facts> mFactsList = new ArrayList<>();
     Facts facts;
     int mPos;
     TextView facts_textView;
     ImageView imageView;
+    ImageView dissapear,share;
 
 
 
@@ -73,6 +80,15 @@ class CustomPagerAdapter extends PagerAdapter {
         display_news(facts, itemView, mPos);
         container.addView(itemView);
 
+        share.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String fact = facts_textView.getText().toString();
+
+
+            }
+        });
+
         return itemView;
     }
 
@@ -86,6 +102,10 @@ class CustomPagerAdapter extends PagerAdapter {
 
         facts_textView = itemView.findViewById(R.id.facts);
         imageView = itemView.findViewById(R.id.imageView);
+        fact_parent = itemView.findViewById(R.id.fact_parent);
+
+        share = itemView.findViewById(R.id.share);
+        dissapear = itemView.findViewById(R.id.dissapear);
 
 
         if (!facts.getFact().isEmpty()) {
@@ -96,10 +116,10 @@ class CustomPagerAdapter extends PagerAdapter {
                     .load(facts.getImgUrl())
                     .fit()
                     .centerCrop()
-                    .error(R.drawable.animals)
                     .into(imageView);
         }
-
     }
+
+
 
 }

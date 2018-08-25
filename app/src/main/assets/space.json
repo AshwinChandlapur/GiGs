@@ -1,0 +1,978 @@
+[
+  {
+    "en": "Halley's comet passes the Earth every 76 years (the next time it will return will be 2062).",
+    "image": "http://i.gyazo.com/ac5169f2b46282a5a4446ce041bafc60.jpg"
+  },
+  {
+    "en": "The Earth’s rotation is gradually slowing at approximately 17 milliseconds per hundred years.",
+    "image": "http://i.gyazo.com/febe1a3d3151916625d3df9b714f7cdb.png"
+  },
+  {
+    "en": "There is high-speed Internet on the moon: 19 MBPS",
+    "image": "http://i.gyazo.com/3311cef8ac80b6fa8ad1ebdff940a977.png"
+  },
+  {
+    "en": "The moon is the only natural satellite of the Earth and formed 4.6 billion years ago.",
+    "image": "http://i.gyazo.com/8d93fcf52a75aa521153f98fda82ab20.png"
+  },
+  {
+    "en": "Over 100,000 people have applied for a one-way trip to colonize Mars in 2022.",
+    "image": "http://i.gyazo.com/5e9d2253f4b6536aa813bd9812cea022.png"
+  },
+  {
+    "en": "Your weight in Mars is over 60% less than on Earth.",
+    "image": "http://i.gyazo.com/ac5c679e5363d88ea27ea31ba4710be5.png"
+  },
+  {
+    "en": "Mars is populated entirely by robots. Seven to be precise.",
+    "image": "http://i.gyazo.com/bf9090c4e085acbc19ba2ac2d773688a.png"
+  },
+  {
+    "en": "A year on Earth lasts 365,2564 days. These additional 0,2564 of day create the need for leap years.",
+    "image": "http://i.gyazo.com/8b9d69061b3a869e80afb1f91a1ec82c.png"
+  },
+  {
+    "en": "Depending on the geometry of the Sun, moon and Earth can be from 2 to 5 solar eclipses a year.",
+    "image": "http://i.gyazo.com/6bfaa0962eac291be9f95e9c0b7ea5d3.png"
+  },
+  {
+    "en": "Uranus makes one revolution around the Sun every 84 earth years.",
+    "image": "http://i.gyazo.com/a62585e998f60a5a238179576c5dedf6.png"
+  },
+  {
+    "en": "A total solar Eclipse can last up to 7.5 minutes.",
+    "image": "http://i.gyazo.com/ea779e29df0acd01956164df309f2df5.png"
+  },
+  {
+    "en": "In 1986, the spacecraft Voyager-2 flew past the planet Uranus at a distance of 81,500 km.",
+    "image": "http://i.gyazo.com/b7d1fac7fe4eee49d015b0f6e1b39694.png"
+  },
+  {
+    "en": "A day on Venus is longer than its year.",
+    "image": "http://i.gyazo.com/fc25355701f15bc046a8529abf2d23e9.png"
+  },
+  {
+    "en": "An astronaut can be up to 2 inches (5 cm) taller returning from space (the cartilage disks in the spine expand with the absence of gravity).",
+    "image": "http://i.gyazo.com/63eee25c4351f900c6a19d4df31d76b4.jpg"
+  },
+  {
+    "en": "Time slows down near a black hole.",
+    "image": "http://i.gyazo.com/2d99ec06bf08108749f2db8ad678b47d.png"
+  },
+  {
+    "en": "When the moon is directly over your head, you weigh slightly less.",
+    "image": "http://i.gyazo.com/933339c12dbc019b2f403f68dc0d3ee1.png"
+  },
+  {
+    "en": "A cosmic year is the amount of time it takes the sun to revolve around the center of the Milky Way, about 225 million years.",
+    "image": "http://i.gyazo.com/504d18aca70163c208dce2c82458f7a5.png"
+  },
+  {
+    "en": "Our sun and the surrounding planets orbit around the center of the Milky Way galaxy once every 250 million years.",
+    "image": "http://i.gyazo.com/553b4370846a245419d7dbb5ed0a0f99.png"
+  },
+  {
+    "en": "If two pieces of metal touch in space, they become permanently stuck together.",
+    "image": "http://i.gyazo.com/880d6ef7adf04f3067fdda7c32dce79c.png"
+  },
+  {
+    "en": "Every eleven years the magnetic poles of the sun switch. This cycle is called \"Solarmax\".",
+    "image": "http://i.gyazo.com/af03209733f823b74ff99977d66c8a7c.png"
+  },
+  {
+    "en": "The moon is 27% of the size of the Earth.",
+    "image": "http://i.gyazo.com/2ec58a33f1245195bbf58486fe261398.png"
+  },
+  {
+    "en": "Some asteroids have other asteroids orbiting them.",
+    "image": "http://i.gyazo.com/b3ec23e91977dcb1be002dbef36ed987.png"
+  },
+  {
+    "en": "In the 1960's, the US spent millions developing a zero gravity pen for use in space",
+    "image": "http://i.gyazo.com/b0bf20d10e1f6256a5c72dec123bde08.png"
+  },
+  {
+    "en": "At the equator the Earth spins at about 1,038 miles per hour.",
+    "image": "http://i.gyazo.com/077b818007c6f4a38a9fcdf5bf69676f.png"
+  },
+  {
+    "en": "Did you know over 500 meteorites hit the Earth each year?",
+    "image": "http://i.gyazo.com/96ae55eaea2aaf5bbf416d6c0e8b8a15.png"
+  },
+  {
+    "en": "The heat from a nuclear explosion is hotter than the surface of the sun!",
+    "image": "http://i.gyazo.com/62788319c2ac351b6597fca80fbceca5.png"
+  },
+  {
+    "en": "Coca-Cola was the first soft drink to be consumed in outer space.",
+    "image": "http://i.gyazo.com/4ceacc36c1df29ca4b4b0edb6eee38d5.png"
+  },
+  {
+    "en": "In space, astronauts cannot cry because there is no gravity.",
+    "image": "http://i.gyazo.com/b2b809a3722624d926161e0c0f2dc5c6.png"
+  },
+  {
+    "en": "The heart of an astronaut actually gets smaller when in outer space.",
+    "image": "http://i.gyazo.com/59693a9c503d8bf3bf1fa853ecaef08d.png"
+  },
+  {
+    "en": "Astronaut Neil Armstrong first stepped on the moon with his left foot.",
+    "image": "http://i.gyazo.com/eb3d900cd2ba94da1d1312ef6536ccf0.png"
+  },
+  {
+    "en": "The cosmos contains approximately 50,000,000,000 galaxies.",
+    "image": "http://i.gyazo.com/a2784e9de177766a85aeb21ecc2d030d.png"
+  },
+  {
+    "en": "Did you know Venus is the only planet that rotates clockwise?",
+    "image": "http://i.gyazo.com/cfeb2cb0a8295006f75bb3d49c786dfd.png"
+  },
+  {
+    "en": "Earth is the only planet not named after a god.",
+    "image": "http://i.gyazo.com/60a9f611c6c2dac09f611be847c23433.png"
+  },
+  {
+    "en": "The first American in space was Alan B. Shepard Jr.",
+    "image": "http://i.gyazo.com/6d1912b393eed69da4a38e7ee88fac09.png"
+  },
+  {
+    "en": "Did you know the diameter of Earth is 12,756 km (7,926 miles)?",
+    "image": "http://i.gyazo.com/31a39e014fa26c7fe6f1feaebb64f89f.png"
+  },
+  {
+    "en": "December 1972 U.S. astronaut Eugene Cernan becomes the last person to set foot on the moon.",
+    "image": "http://i.gyazo.com/f4ceabcb968020359380d50d81d46745.png"
+  },
+  {
+    "en": "All of the stars comprising the Milky Way galaxy revolve around the center of the galaxy once every 200 million years or so.",
+    "image": "http://i.gyazo.com/4432cca36f0b1cceeb48f9c91da7a9dd.jpg"
+  },
+  {
+    "en": "If emissions of carbon dioxide were halted today, it would take more than a century for the atmospheric level of carbon dioxide to approach its pre-industrial level.",
+    "image": "http://i.gyazo.com/f11ff7682a580da1728600f7b9174a2a.jpg"
+  },
+  {
+    "en": "There are more stars in space than the grains in the sand on whole Earth.",
+    "image": "http://i.gyazo.com/d0fb5bcc32993dda438e4a58a762d3b4.jpg"
+  },
+  {
+    "en": "In Gulliver's Travels, Jonathan Swift described the two moons of Mars, Phobos and Deimos, giving their exact size and speeds of rotation. He did this more than a hundred years before either moon was discovered.",
+    "image": "http://i.gyazo.com/662c53614fe4d77d74a0c66c3466b168.png"
+  },
+  {
+    "en": "Approximately 40,000 tons of meteoric dust hits the Earth each year.",
+    "image": "http://i.gyazo.com/006ba63c7f49548192ea35e15b30d0d7.png"
+  },
+  {
+    "en": "The first American satellite in orbit, Explorer I, was launched on February 1, 1958.",
+    "image": "http://i.gyazo.com/d478ee65fb4c23319e0a0d6934bacebc.png"
+  },
+  {
+    "en": "An area of the Sun's surface the size of a postage stamp shines with the power of 1,500,000 candles.",
+    "image": "http://i.gyazo.com/2aded3e46244f09cde97bed1506c2c6f.png"
+  },
+  {
+    "en": "Every 238 years, the orbits of Neptune and Pluto change making Neptune at times the farthest planet from the sun.",
+    "image": "http://i.gyazo.com/9b1750644ba3459137a7b03227eb9562.png"
+  },
+  {
+    "en": "It takes only 8 minutes for sunlight to travel from the sun to the earth, which also means, if you see the sun go out, it actually went out 8 minutes ago",
+    "image": "http://i.gyazo.com/d4d0c6334c9630117f6b2b5ece76db99.png"
+  },
+  {
+    "en": "Saturn's moon Titan has plenty of evidence of organic (life) chemicals in its atmosphere",
+    "image": "http://i.gyazo.com/fb8c70fb8f135e60f8b3167958898be3.png"
+  },
+  {
+    "en": "Life is known to exist only on Earth, but in 1986 NASA found what they thought might be fossils of microscopic living things in a rock from Mars",
+    "image": "http://i.gyazo.com/b644b964f4a50c421e1686ad9fb8c5f2.png"
+  },
+  {
+    "en": "Most scientists say life's basic chemicals formed on the Earth. The astronomer Fred Hoyle said they came from space",
+    "image": "http://i.gyazo.com/47fa7187d8694db69a7eddd75e2959f4.png"
+  },
+  {
+    "en": "Oxygen is circulated around the helmet in space suits in order to prevent the visor from misting",
+    "image": "http://i.gyazo.com/6d5b41ca5a82f571af36c77856a0db40.png"
+  },
+  {
+    "en": "The middle layers of space suits are blown up like a balloon to press against the astronaut's body. Without this pressure, the astronaut's body would boil",
+    "image": "http://i.gyazo.com/ed1323b2a4fd990a3b9f41b71ca5b6d8.png"
+  },
+  {
+    "en": "The gloves included in the space suit have silicon rubber fingertips which allow the astronaut some sense of touch",
+    "image": "http://i.gyazo.com/3f30a718eb7b4c3022f9a010aa338b73.png"
+  },
+  {
+    "en": "The full cost of a spacesuit is about $11 million although 70% of this is for the backpack and the control module",
+    "image": "http://i.gyazo.com/88a84700545ae59b9a0260823b929c77.png"
+  },
+  {
+    "en": "Glowing nebulae are named so because they give off a dim, red light, as the hydrogen gas in them is heated by radiation from the nearby stars",
+    "image": "http://i.gyazo.com/ac75f062ea943a210de22c03265e4e74.png"
+  },
+  {
+    "en": "The Drake Equation was proposed by astronomer Frank Drake to work out how many civilizations there could be in our galaxy",
+    "image": "http://i.gyazo.com/85f97e67c8f78bd6b66ae5060b8afc3f.png"
+  },
+  {
+    "en": "SETI is the Search for ExtraTerrestrial Intelligence - the program that analyzes radio signals from space for signs of intelligent life",
+    "image": "http://i.gyazo.com/6301be44d36a97e44f63b1fcce7de20a.png"
+  },
+  {
+    "en": "The Milky Way galaxy we live in: is one among the BILLIONS in space",
+    "image": "http://i.gyazo.com/208c7bf086359a470e4d6d860e23b2ab.png"
+  },
+  {
+    "en": "The Milky Way galaxy is whirling rapidly, spinning our sun and all its other stars at around 100 million km per hour",
+    "image": "http://i.gyazo.com/2f3ed35a980f37cba74d0dcad83a7510.png"
+  },
+  {
+    "en": "The Sun travels around the galaxy once every 200 million years – a journey of 100,000 light years",
+    "image": "http://i.gyazo.com/f0ed3638d8620aeb406381b557d06ea5.png"
+  },
+  {
+    "en": "The Universe is probably about 15 billion years old, but the estimations vary",
+    "image": "http://i.gyazo.com/1c3cdb2d42c309c9b6972542d8f32cc5.png"
+  },
+  {
+    "en": "The very furthest galaxies are spreading away from us at more than 90% of the speed of light",
+    "image": "http://i.gyazo.com/37350c2c1333085d2bb440cdadf22323.png"
+  },
+  {
+    "en": "Big Bang suggest our universe may be just one of countless bubbles of space time",
+    "image": "http://i.gyazo.com/d2ad7de80d45bee4e89bc8061e051b15.png"
+  },
+  {
+    "en": "The Universe may have neither a centre nor an edge",
+    "image": "http://i.gyazo.com/bdb62f0af35b428d142fef79fed07225.png"
+  },
+  {
+    "en": "If you fell into a black hole, you would stretch like spaghetti",
+    "image": "http://i.gyazo.com/fc5ffed1c0ddc8a809113cc556e55155.png"
+  },
+  {
+    "en": "Matter spiraling into a black hole is torn apart and glows so brightly that it creates the brightest objects in the Universe – quasars",
+    "image": "http://i.gyazo.com/1fc1336d5efe1ff109721bcf69a920ef.png"
+  },
+  {
+    "en": "The swirling gases around a black hole turn it into an electrical generator, making it spout jets of electricity billions of kilometers out into space",
+    "image": "http://i.gyazo.com/bfdfc26768eb9092027d7fa3eeea53f6.png"
+  },
+  {
+    "en": "The opposite of black holes are estimated to be white holes which spray out matter and light like fountains",
+    "image": "http://i.gyazo.com/26523d0853e33c1498be5f79ed3b09d2.png"
+  },
+  {
+    "en": "A day in Mercury lasts approximately as long as 59 days on earth",
+    "image": "http://i.gyazo.com/b5d1d4a20778ccd950a5155d29096a42.png"
+  },
+  {
+    "en": "As the earth turns, the stars come back to the same place in the night sky every 23 hours, 56 minutes and 4.09 seconds",
+    "image": "http://i.gyazo.com/1ce81c318587b9b5575bc8ec00af37d0.png"
+  },
+  {
+    "en": "When Neil Armstrong stepped on the Moon for the first time, he said these famous words: “That’s one small step for a man; one giant leap for mankind”",
+    "image": "http://i.gyazo.com/e2db8da264e3c1cc878c1cba3cc4ec35.png"
+  },
+  {
+    "en": "From the moon, astronauts brought back 380 kg of Moon rock",
+    "image": "http://i.gyazo.com/5791abbcaba6543d581feec116c6a097.png"
+  },
+  {
+    "en": "During the moon landing, a mirror was left on the Moon’s surface to reflect a laser beam which measured the Moon’s distance from the Earth with amazing accuracy",
+    "image": "http://i.gyazo.com/78781f3886040858032eeb37915ef8c9.png"
+  },
+  {
+    "en": "The stars in each constellation are named after a Greek alphabet",
+    "image": "http://i.gyazo.com/568c476fac199c7b0902cf529e5e3df0.png"
+  },
+  {
+    "en": "The brightest star in each constellation is called the Alpha Star, the next brightest Beta, and so on",
+    "image": "http://i.gyazo.com/1123da6fa7737bd5fe48f6d82dfecd6d.png"
+  },
+  {
+    "en": "The distance to the planets is measured by bouncing radar signals off them and timing how long the signals take to get there and back",
+    "image": "http://i.gyazo.com/aad0ccd844f4ddbbd1f685bbb3374ad5.png"
+  },
+  {
+    "en": "Spacecrafts have double hulls (outer coverings) which protect them against other space objects that crash into them",
+    "image": "http://i.gyazo.com/508ce81266e0016ace9b3f8135227bfb.png"
+  },
+  {
+    "en": "Manned Spacecrafts have life support systems that provide oxygen to breathe, usually mixed with nitrogen (as in ordinary air). Charcoal filters out smells",
+    "image": "http://i.gyazo.com/3c120288162eb9db52195d0c4da82459.png"
+  },
+  {
+    "en": "Spacecrafts toilets have to get rid of waste in low gravity conditions, Astronauts have to sit on a device which sucks away the waste",
+    "image": "http://i.gyazo.com/b59c683dabf3eb08d46eadaa7317ac8e.png"
+  },
+  {
+    "en": "A comet’s tail is made as it nears the Sun and begins to melt",
+    "image": "http://i.gyazo.com/fc1ac2484866192b23cc2029978a35aa.png"
+  },
+  {
+    "en": "The Shoemaker-Levy 9 comet smashed into Jupiter in July 1994, with the biggest crash ever witnessed",
+    "image": "http://i.gyazo.com/bb0678da252936d42be9dfca2a98bc88.png"
+  },
+  {
+    "en": "Giant stars have burned all their hydrogen, and so burn helium, fusing helium atoms to make carbon",
+    "image": "http://i.gyazo.com/e625aec74d04b73dfef37bf414b99b18.png"
+  },
+  {
+    "en": "The constellation of Cygnus, contains the very biggest star in the known universe - a hyper giant which is almost a million times as big as the sun",
+    "image": "http://i.gyazo.com/0bb4dac843f47b010e8d071fdc12a894.png"
+  },
+  {
+    "en": "Planet Uranus was discovered by William Herschel, who wanted to name the planet George, after King George III, but Uranus was eventually chosen",
+    "image": "http://i.gyazo.com/9188635ac5b51860b792d0ab067aed45.png"
+  },
+  {
+    "en": "The first rockets were made 1,000 years ago in China",
+    "image": "http://i.gyazo.com/c480db2ce52a2d6beea9408de40a3498.png"
+  },
+  {
+    "en": "Robert Goddard launched the very first liquid-fuel rocket in 1926",
+    "image": "http://i.gyazo.com/63bea258bb612fe1a1629237db4e011b.png"
+  },
+  {
+    "en": "Over 100 artificial satellites are now launched into space every year, a few of which are space telescopes",
+    "image": "http://i.gyazo.com/92d3c4c2aaa5ee65831eef2b919b07b4.png"
+  },
+  {
+    "en": "The lower a satellite’s orbit, the faster it must fly to avoid falling back to the Earth",
+    "image": "http://i.gyazo.com/54676edcf4b27c57bc8af891b1cfe7d1.png"
+  },
+  {
+    "en": "Most satellites fly in low orbits, 300 km from the earth",
+    "image": "http://i.gyazo.com/dc6f0653a280af53698977c54724137e.png"
+  },
+  {
+    "en": "Hipparchus was the first astronomer to try to work out how far away the Sun is",
+    "image": "http://i.gyazo.com/1b4dd3986119de54d221b781a5970d80.png"
+  },
+  {
+    "en": "The red color of Mars is due to oxidized (rusted) iron in its soil",
+    "image": "http://i.gyazo.com/3f9f46412b983835b2df0a38812c9efa.png"
+  },
+  {
+    "en": "Mars’s volcano Olympus Mons is the biggest in the Solar system. It is three times higher than our Mount Everest",
+    "image": "http://i.gyazo.com/0a3f498d2784e8d5c377447d1925b952.png"
+  },
+  {
+    "en": "Planets have magnetic field around them because of the liquid iron in their cores. As the planets rotate, so the iron swirls, generating electric currents that create the magnetic field",
+    "image": "http://i.gyazo.com/0f7d919cfa55612f2262f2aa16829090.png"
+  },
+  {
+    "en": "Earth’s atmosphere is the only atmosphere discovered till date that human can breathe in",
+    "image": "http://i.gyazo.com/168d63bf0b8cc453a951ed110326450c.png"
+  },
+  {
+    "en": "Earth’s atmosphere was formed from gases pouring out from volcanoes",
+    "image": "http://i.gyazo.com/f2c92156074e37d038955ac3f423d6e9.png"
+  },
+  {
+    "en": "Jupiter has no surface for a spacecraft to land on because it is made mostly from helium gas and hydrogen",
+    "image": "http://i.gyazo.com/516d5b8f83099a8510a4e261336d628c.png"
+  },
+  {
+    "en": "The massive pull of Jupiter’s gravity squeezes the hydrogen so hard that it is liquid",
+    "image": "http://i.gyazo.com/ab3e187fba96f265710eadcdfe929086.png"
+  },
+  {
+    "en": "Jupiter spins right round in less than 10 hours which means that the planet’s surface is moving at nearly 50,000 km/hr",
+    "image": "http://i.gyazo.com/dde9fce5c71b3d135203700c686ba517.png"
+  },
+  {
+    "en": "The first successful planetary space probe was the USA’s Mariner 2, which flew past Venus in 1962",
+    "image": "http://i.gyazo.com/5f29fe1335d3efbe013b5eebccf54808.png"
+  },
+  {
+    "en": "To save fuel on journeys to distant planets, space probes may use a nearby planet’s gravity to catapult them on their way",
+    "image": "http://i.gyazo.com/3816ed69888aaed5d170288b48be0927.png"
+  },
+  {
+    "en": "Hubble’s law showed that Universe is getting bigger – and so must have started very small. This led to the idea of Big Bang",
+    "image": "http://i.gyazo.com/b680259a2e3709f10c9a3c67674c8293.png"
+  },
+  {
+    "en": "It’s believed that it was the impact of a big meteorite may have chilled the earth and wiped out all the dinosaurs",
+    "image": "http://i.gyazo.com/d97b9f1fb3ca42a5e0e6cb6c0ae69a8c.png"
+  },
+  {
+    "en": "The first astronomers thought the regular pulses from far space might be signals from aliens",
+    "image": "http://i.gyazo.com/f399fe6cb107d26485a5253bb231e0bc.png"
+  },
+  {
+    "en": "Pulsars probably result from a supernova explosion - that is why most are found in the flat disc of the Milky Way, where supernovae occur",
+    "image": "http://i.gyazo.com/9370d4cda038b269d738f2e49e4f4146.png"
+  },
+  {
+    "en": "Three moons have yet been found to have their own moons: Saturn’s moon Titan, Jupiter’s Lo, and Neptune’s Triton",
+    "image": "http://i.gyazo.com/f9f86e30264fdf983d928657e5017831.png"
+  },
+  {
+    "en": "The largest moon in the Solar System is the Jupiter’s moon Ganymede",
+    "image": "http://i.gyazo.com/b5e15c8ce0afe8800c8ee4f5a3c1fcb5.png"
+  },
+  {
+    "en": "Saturn is not solid, but is made almost entirely of gas – mostly liquid hydrogen and helium. Only in the planet’s very small core is there any rock",
+    "image": "http://i.gyazo.com/f92b7ff4489451041e38513185ecfc34.png"
+  },
+  {
+    "en": "Winds around Saturn’s equator reaching ten times stronger than a hurricane on Earth  up to 1100 km/h – and they never let up: even for a moment",
+    "image": "http://i.gyazo.com/9e0f5d8567fe454414a584dd1c912746.png"
+  },
+  {
+    "en": "The first space station was the Soviet Salyut 1 launched in April 1971; its low orbit meant it stayed up only five months",
+    "image": "http://i.gyazo.com/9af2e8c759de17c13f8962e1d76c827c.png"
+  },
+  {
+    "en": "In April 2001, Dennis Tito became the first space tourist, ferried up to the ISS by the Russian Soyuz space shuttle",
+    "image": "http://i.gyazo.com/82a23d968c5b5b2e1147ecd40b50f928.png"
+  },
+  {
+    "en": "Einstein’s theory of general relativity shows that gravity not only pulls on matter, but also space and even ‘Time’ itself",
+    "image": "http://i.gyazo.com/902461cb1684ac1fd10b4384112075c3.png"
+  },
+  {
+    "en": "Since the star Deneb is 1800 light years away, we see it as it was when the emperor Septimus Severius was ruling the Rome (AD 200)",
+    "image": "http://i.gyazo.com/5d765772ebe3e68f0898a803db2b99f3.png"
+  },
+  {
+    "en": "With powerful telescopes, astronomers can see galaxies 2 billion light years away",
+    "image": "http://i.gyazo.com/498cc55f7f546439d8ee07e3df2bd5a8.png"
+  },
+  {
+    "en": "The slowest rotating planet is Venus, which takes 243.01 days to turn around.",
+    "image": "http://i.gyazo.com/93569411989218068447558fd72a51f5.png"
+  },
+  {
+    "en": "The fastest spinning objects in the Universe are neutron stars – these can rotate 500 times in just 1 second",
+    "image": "http://i.gyazo.com/48bac19293aea99c90acf1a946778e3f.png"
+  },
+  {
+    "en": "In summer in Uranus, the sun does not set for 20 years. In winter, darkness lasts for 20 years. In autumn, the sun rises and sets every 9 hours",
+    "image": "http://i.gyazo.com/5c73dc51b892673a0c8127d5c95d30af.png"
+  },
+  {
+    "en": "Uranus’s moon Miranda is the weirdest moon of all. It seems to have been blasted apart, and then put together again",
+    "image": "http://i.gyazo.com/bf9b4dcb60a6af9d7ca0dd685d6ad631.png"
+  },
+  {
+    "en": "Solar flares reach temperatures of 10 million °C and have the energy of a million atom bombs",
+    "image": "http://i.gyazo.com/1aff766f3eeb1f27d285a7c62a916ce5.png"
+  },
+  {
+    "en": "True binary stars are two stars held together by one another’s gravity, which spend their lives whirling around together like a pair of dancers",
+    "image": "http://i.gyazo.com/443d75937c3a4db1186ca78d69ed3dd9.png"
+  },
+  {
+    "en": "Halley predicted that a comet he had discovered would return in 1758, 16 years after his death, and it really did",
+    "image": "http://i.gyazo.com/7d6e5274d1e032a7623ca96c59518b4f.png"
+  },
+  {
+    "en": "Ceres is the biggest asteroid in the Solar System – 940 km across, and 0.0002% the size of the earth",
+    "image": "http://i.gyazo.com/9d974e0411202e0af9af50ef3e829802.png"
+  },
+  {
+    "en": "The sun is about 5 billion years old - as a medium sized star it will probably live for around 10 billion years",
+    "image": "http://i.gyazo.com/174e11b2c0beb0ead0e7da30320d2f90.png"
+  },
+  {
+    "en": "Neptune’s satellite Triton is the coldest place in the Solar System, with surface temperatures of -236°C",
+    "image": "http://i.gyazo.com/347b219dc8f8a7bc475b98d276449920.png"
+  },
+  {
+    "en": "Voyager 2 will beam back data until 2020 as it travels beyond the edges of the Solar System",
+    "image": "http://i.gyazo.com/18a05da0d2cddb0faa0fc5f21bb3bc3c.png"
+  },
+  {
+    "en": "The Pioneer 10 and 11 probes carry metal plaques with messages for aliens telling them about us",
+    "image": "http://i.gyazo.com/c0d758c6cf4d3309961637638020d3c3.png"
+  },
+  {
+    "en": "Einstein’s theory of Special Relativity shows that all measurements are relative, time and speed depends upon where you measure them",
+    "image": "http://i.gyazo.com/475450dc137380760570347fb55d8223.png"
+  },
+  {
+    "en": "When things are falling, their acceleration cancels out gravity, which is why astronauts in orbits are weightless",
+    "image": "http://i.gyazo.com/f9edb478fb553fff97dbe5389c1a8f56.png"
+  },
+  {
+    "en": "The first space telescope was the Copernicus, sent out in 1972",
+    "image": "http://i.gyazo.com/91b90fae87a833c5a7119a68f72dced1.png"
+  },
+  {
+    "en": "Astronauts learn Scuba diving which helps them to deal with space walks",
+    "image": "http://i.gyazo.com/712f0b12f356b670d29528312feb3641.png"
+  },
+  {
+    "en": "Weightlessness makes astronauts grow several centimeters during a long mission",
+    "image": "http://i.gyazo.com/b4183ed195dcb1912708aaf5965f5141.png"
+  },
+  {
+    "en": "The first living creature in space was the dog Laika on – board Sputnik 2 in 1957. Sadly, she died when the spacecraft’s oxygen supply ran out",
+    "image": "http://i.gyazo.com/28c50e4d824ad8ad460c328dbea498f1.png"
+  },
+  {
+    "en": "The first manned space flight was made in April 1961 by the Soviet Cosmonaut, Yuri Gagarin in Vostok 1",
+    "image": "http://i.gyazo.com/12e4d97bd1b23acf1998d2e38a864733.png"
+  },
+  {
+    "en": "The heart of a star reaches 16 million °C. A grain of sand this hot would kill someone 150 km away",
+    "image": "http://i.gyazo.com/6baae870add6d0fe261abf11bfeaa66a.png"
+  },
+  {
+    "en": "Stars twinkle because we see them through the wafting of the atmosphere",
+    "image": "http://i.gyazo.com/42d2c5504388be09bff6dd44d24c66e4.png"
+  },
+  {
+    "en": "The sun weighs about 2,000 trillion tones",
+    "image": "http://i.gyazo.com/e6fa439b29403fd4fa364829bb95e78c.png"
+  },
+  {
+    "en": "Sun is about 300,000 times as massive as the Earth",
+    "image": "http://i.gyazo.com/d68bb59aba53a290301ec38559a50494.png"
+  },
+  {
+    "en": "The Sun is made almost entirely of hydrogen and helium, the lightest gases in the Universe",
+    "image": "http://i.gyazo.com/8c017a454765e237993fecdc95253384.png"
+  },
+  {
+    "en": "The sun gets hot because that the pressure in its core is so tremendous - enough to force the nuclei of hydrogen atoms to fuse to make helium atoms",
+    "image": "http://i.gyazo.com/b2409a784905cbc66ac89fc984710a06.png"
+  },
+  {
+    "en": "The nuclear fusion reactions in the Sun’s core send out billions of light photons every minute but they take 10 million years to reach its surface",
+    "image": "http://i.gyazo.com/32a02be35c857f698848857e53d2e958.png"
+  },
+  {
+    "en": "The Hiroshima bombs released 84 trillion joules of energy. A supernova releases 125,000 trillion trillion times as such",
+    "image": "http://i.gyazo.com/44ea59630a0690eb625145acbb47fc66.png"
+  },
+  {
+    "en": "When light waves from distant galaxies are stretched out his way, they look redder. This is called red shift",
+    "image": "http://i.gyazo.com/02155380b17016ff6e2fb35af9098097.png"
+  },
+  {
+    "en": "The moon’s gravity is 17% of the Earth’s so astronauts in space suits can jump 4 m high on the moon",
+    "image": "http://i.gyazo.com/54f6fcb4be244b9dd9b11a075008c4cb.png"
+  },
+  {
+    "en": "Because the moon has no atmosphere or wind, the footprints planted in its dusty surface in 1969 by the Apollo astronauts are still there today",
+    "image": "http://i.gyazo.com/267f8c4700e6cef082ea83acab383508.png"
+  },
+  {
+    "en": "On the moon’s surface there are large dark patches called seas – because this is what people once believed they were",
+    "image": "http://i.gyazo.com/4bbe096690839903fac3ab77d66559c2.png"
+  },
+  {
+    "en": "Sea on a moon is a lava that flowed from ancient volcanoes",
+    "image": "http://i.gyazo.com/2d1336b240170357e243a9d5c0f35025.png"
+  },
+  {
+    "en": "Quasars are the most distant known objects in the Universe. Even the nearest is billions of light years away",
+    "image": "http://i.gyazo.com/9907727029c6db99f79b8b438a8b260a.png"
+  },
+  {
+    "en": "The brightest quasar is 3C 273, 2 billion light years away",
+    "image": "http://i.gyazo.com/b30e76c0a5813d2497246ca3a978b7cc.png"
+  },
+  {
+    "en": "The brightest stars in the night sky are not actually stars, but the planets Jupiter, Venus, Mars and Mercury",
+    "image": "http://i.gyazo.com/63f2cf666ddc3efacb94548064489527.png"
+  },
+  {
+    "en": "Jupiter’s moon Europa may have oceans of water beneath its dry surface and it is a major target in the search for life in the Solar System",
+    "image": "http://i.gyazo.com/431fb8722aa1758454fc10ba21dd11b8.png"
+  },
+  {
+    "en": "There may be 20 trillion galaxies in the Universe",
+    "image": "http://i.gyazo.com/accb99b46bb443bcdf1ad37eda93f6bb.png"
+  },
+  {
+    "en": "Galaxies are often found in a group or clusters. One cluster may have 30 or so galaxies in it",
+    "image": "http://i.gyazo.com/9c1b5540378e3155c727606d9a767604.png"
+  },
+  {
+    "en": "In the 1970s the US Vikings 1 and 2 and the Soviet Mars 3 and 5 probes all reached the surface of Mars",
+    "image": "http://i.gyazo.com/4072436502f7e2b31694cf26605435a9.png"
+  },
+  {
+    "en": "The Solar System has nine planets including Pluto, but Pluto may be an escaped moon or an asteroid not a planet",
+    "image": "http://i.gyazo.com/db5d34f529cefdc4cb9d184a9895e4f5.png"
+  },
+  {
+    "en": "The Milky Way belongs to a cluster of 30 galaxies called the Local Group, which is 7 million light years across",
+    "image": "http://i.gyazo.com/a1725515d73daac4cab051aa8e227935.png"
+  },
+  {
+    "en": "The Virgo Cluster is 50 million light years away and is made up of 1000 galaxies",
+    "image": "http://i.gyazo.com/a880f1fb9660c533ebccf24d1991be18.png"
+  },
+  {
+    "en": "For a satellite or a spacecraft to stay in orbit 200 km above the earth, it has to fly over 8 km/sec",
+    "image": "http://i.gyazo.com/15e28ede23ffd7ba9c7b718ef371ccf8.png"
+  },
+  {
+    "en": "When a spacecraft reaches 140% of the orbital velocity i.e. 11.2 km/sec, it is going fast enough to break free of the Earth’s gravity",
+    "image": "http://i.gyazo.com/eaab58ecb923ea395ce3b0bcfd0db3aa.png"
+  },
+  {
+    "en": "Saturn’s rings are sets of thin rings of ice, dust and tiny rocks, which orbit the planet around its equator",
+    "image": "http://i.gyazo.com/1cd6c9c9762b9d235411be31d331fcdb.png"
+  },
+  {
+    "en": "A tablespoon of neutron star would weigh about ten billion tones",
+    "image": "http://i.gyazo.com/9b1158a76900906d43c3edbc4a7f8155.png"
+  },
+  {
+    "en": "The earth actually takes 365.24219 days to orbit the Sun, which is called one Solar Year",
+    "image": "http://i.gyazo.com/f8fdca4a41bf35431607af8dc86a9cb3.png"
+  },
+  {
+    "en": "X-Rays cannot reach the earth’s atmosphere, so astronomers can only detect them using space telescopes such as ROSAT",
+    "image": "http://i.gyazo.com/2699e0e72313d593d6d84ac04d463515.png"
+  },
+  {
+    "en": "The Sun has sunspots, the dark spots on the Sun’s photosphere (surface), 2000°C cooler than the rest of the surface",
+    "image": "http://i.gyazo.com/6dea4c32fa90865f3ffd25b201be1ae0.png"
+  },
+  {
+    "en": "After the big bang, there was antimatter, the mirror image of matter. Antimatter and matter destroyed each other when they met, thus they annihilated",
+    "image": "http://i.gyazo.com/991d4805072f71770e1f2a939e21a601.png"
+  },
+  {
+    "en": "The afterglow of the Big Bang can still be detected as microwave background radiation coming from all over space",
+    "image": "http://i.gyazo.com/d8254349aca421c3fbd7569b807b616c.png"
+  },
+  {
+    "en": "Dishes in the space telescopes have to be made accurate two billionths of a millimeter",
+    "image": "http://i.gyazo.com/70ccc877d3077ee857caf662bd899b1a.png"
+  },
+  {
+    "en": "You can see another galaxy with the naked eye: the Andromeda Galaxy, 2.2 million light years away",
+    "image": "http://i.gyazo.com/e694c49d571b3fbc24e0ed108cadb0f7.png"
+  },
+  {
+    "en": "Dried up riverbeds show that Mars probably once had water in its surface. There is sometimes ice at the poles and maybe water underground",
+    "image": "http://i.gyazo.com/130030b33728b90f55bf526cbbbb83b2.png"
+  },
+  {
+    "en": "For a satellite to fly off into the space, its momentum should be greater than the pull of gravity of the earth",
+    "image": "http://i.gyazo.com/4b9e86be1aa604fbf2572ee6af64e184.png"
+  },
+  {
+    "en": "If there is too much of a dark matter in the Universe, its gravity will eventually stop the Universe’s expansion – and make it shrink again",
+    "image": "http://i.gyazo.com/a2319a34cda20db63f7675d1c20ab0c9.png"
+  },
+  {
+    "en": "Mercury and Venus are the only two planets in our solar system that do not have any moons",
+    "image": "http://i.gyazo.com/31f0f9a68856fed5a44bff3df94b10d2.png"
+  },
+  {
+    "en": "If a star passes too close to a black hole, it can be torn apart",
+    "image": "http://i.gyazo.com/ef574d99140a09f61d52e89a759223d0.png"
+  },
+  {
+    "en": "The hottest planet in our solar system is Venus.",
+    "image": "http://i.gyazo.com/fa9f4da3d9edf8e473f6669e46e9136c.png"
+  },
+  {
+    "en": "Venus has a lot of gasses in its atmosphere, which causes the “Greenhouse Effect”",
+    "image": "http://i.gyazo.com/0e9a69cf4a6dafac08a0857c02d119a7.png"
+  },
+  {
+    "en": "Enceladus, one of Saturn’s smaller moons, reflects some 90% of the sunlight, making it more reflective than snow",
+    "image": "http://i.gyazo.com/7774b525a9db8cd1351b28778642395b.png"
+  },
+  {
+    "en": "The Whirlpool Galaxy (M51) was the very first celestial object to be identified as being spiral",
+    "image": "http://i.gyazo.com/07d9f73a1b7594dbb6576db35da66b75.png"
+  },
+  {
+    "en": "A light year is the distance covered by light in a single year, this is equivalent to 5.88 trillion miles (9.5 trillion KM)",
+    "image": "http://i.gyazo.com/7995fe250cc34151ed9414c54b67bb58.png"
+  },
+  {
+    "en": "The width of the Milky Way is around 100,000 light years",
+    "image": "http://i.gyazo.com/f3e2abe610993c91f8f025562fc79dac.png"
+  },
+  {
+    "en": "Because of lower gravity, a person who weighs 100kg on earth would only weigh 38kg on the surface of Mars",
+    "image": "http://i.gyazo.com/b54e065fcefcf686de0daa33d03ee2b5.png"
+  },
+  {
+    "en": "Scientists believe there are 67 moons that orbit Jupiter, however only 53 of these have been named",
+    "image": "http://i.gyazo.com/7d007580b350512f0a16586a61ee18a0.png"
+  },
+  {
+    "en": "The Martian day is 24 hours 39 minutes and 35 seconds",
+    "image": "http://i.gyazo.com/01ce12fbdec5803c483d20ee20b7d128.png"
+  },
+  {
+    "en": "NASA’s Crater Observation and Sensing Satellite (LCROSS) declared that they have found evidence of significant amounts of water on the Earth’s Moon",
+    "image": "http://i.gyazo.com/c1a847978a7455a2bae9311352cd744e.png"
+  },
+  {
+    "en": "The Sun makes a full rotation once every 25-35 days",
+    "image": "http://i.gyazo.com/76561ae8a8bda7c3fb9d5ba27ac2f9ee.png"
+  },
+  {
+    "en": "The force of gravity can sometimes cause comets to tear apart",
+    "image": "http://i.gyazo.com/df98aec7d75b868aeb6ec423d2adac45.png"
+  },
+  {
+    "en": "It is thanks to the Sun and our own moon's gravity that we have high and low tides",
+    "image": "http://i.gyazo.com/3f562373d9b86702bcdd645b41ec1038.png"
+  },
+  {
+    "en": "Pluto is smaller than the Earth’s moon",
+    "image": "http://i.gyazo.com/302d663527ee3e28bb74bd6f17eadb6b.png"
+  },
+  {
+    "en": "According to mathematics, white holes are possible, although as of yet, we have found none",
+    "image": "http://i.gyazo.com/bd7d56ca89778bcc240c6764c2c1ecad.png"
+  },
+  {
+    "en": "Our moon is around 4.5 billion years old",
+    "image": "http://i.gyazo.com/773a6fe01ccb358cb3729ddca60311b9.png"
+  },
+  {
+    "en": "There are more volcanoes on Venus than any other planet within our solar system",
+    "image": "http://i.gyazo.com/ac9dc31cfff7a8eebc86c8267ebbe44f.png"
+  },
+  {
+    "en": "Uranus’ blue glow is down to the methane in its atmosphere, which filters out all the red light",
+    "image": "http://i.gyazo.com/afd260a2f390df3196189f0750e04082.png"
+  },
+  {
+    "en": "The four planets in our solar system that are known as gas giants are Jupiter, Neptune, Saturn and Uranus",
+    "image": "http://i.gyazo.com/e3cefbb9a3673bd625b0e656291fc1ed.png"
+  },
+  {
+    "en": "Uranus has 27 moons that have been discovered so far",
+    "image": "http://i.gyazo.com/d7faf86f3469da7274e1174862b77154.png"
+  },
+  {
+    "en": "Because of its unique tilt, a single night on Uranus lasts for 21 years",
+    "image": "http://i.gyazo.com/0965a65a99631cb36966080bc91b7b80.png"
+  },
+  {
+    "en": "Scientists say that eventually Triton will get so close to Neptune, it will be torn apart by gravity",
+    "image": "http://i.gyazo.com/8b5c3af77dfc1b4770af65e92d4d3b6e.png"
+  },
+  {
+    "en": "Neptune takes 164.79 years (60,190 days) to make one orbit of the Sun",
+    "image": "http://i.gyazo.com/341d24d0e71ba0ed3165e2ee763bf846.png"
+  },
+  {
+    "en": "The Space Station is the largest manned object ever sent into space",
+    "image": "http://i.gyazo.com/ca3f84bbb5e391cf85ce9da15553e932.png"
+  },
+  {
+    "en": "1 day on Pluto lasts for 6 days and 9 hours",
+    "image": "http://i.gyazo.com/387dd3df18113b04b86000d8089bbbb2.png"
+  },
+  {
+    "en": "Saturn is the second largest planet in our solar system",
+    "image": "http://i.gyazo.com/c9b9f99dcf1278dd3f6571780339f4df.png"
+  },
+  {
+    "en": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension",
+    "image": "http://i.gyazo.com/3269d2178ba076f4ce949f36312c6df6.png"
+  },
+  {
+    "en": "Earth, Mars, Mercury and Venus are called the inner planets as they are closest to the sun",
+    "image": "http://i.gyazo.com/8182f93cf6ddb98fcb7af1a37aff937a.png"
+  },
+  {
+    "en": "We know more about space than we do about deep in our oceans",
+    "image": "http://i.gyazo.com/4218239b86f08b639687e9ee43ac664b.png"
+  },
+  {
+    "en": "The only satellite that Britain has launched was called Black Arrow",
+    "image": "http://i.gyazo.com/77e8a8ab738e49b3c791ab1021374f96.png"
+  },
+  {
+    "en": "Black Arrow was developed during the 1960’s and was used for four launches between 1969 and 1971",
+    "image": "http://i.gyazo.com/f605f8c3e359b365f9064d01a5862ff6.png"
+  },
+  {
+    "en": "The light takes 8.3 minutes to travel from the Sun the Earth",
+    "image": "http://i.gyazo.com/5d96e4bf3821f94b5770d1249a93fae0.png"
+  },
+  {
+    "en": "The odds of being killed by space debris is 1 in 5 billion",
+    "image": "http://i.gyazo.com/fd7b35095dbc9735f226e822e4c53ef8.png"
+  },
+  {
+    "en": "The Earth’s revolution time increases 0.0001 seconds annually",
+    "image": "http://i.gyazo.com/b718f303beb121df1234b84191c64e39.png"
+  },
+  {
+    "en": "If you were driving at 75 miles (121 km) per hour, it would take 258 days to drive around one of Saturn’s rings",
+    "image": "http://i.gyazo.com/4bd0df19d7e43a530faee77c9b5f4537.png"
+  },
+  {
+    "en": "The first man on the moon was Neil Armstrong",
+    "image": "http://i.gyazo.com/28b608a6aa5216bf9db571635c343cc5.png"
+  },
+  {
+    "en": "The Space Station circles the earth every 90 minutes",
+    "image": "http://i.gyazo.com/b9c6ab10de1ef817310c48c4a0edf8a9.png"
+  },
+  {
+    "en": "There are three main types of galaxies out in space, and they are spiral, elliptical, and irregular",
+    "image": "http://i.gyazo.com/775b7b890456c94abb1ee5623f18024f.png"
+  },
+  {
+    "en": "There are approximately 200,000,000,000 stars in the Milky Way",
+    "image": "http://i.gyazo.com/e32166edbc39decf0bbe16a0bbd2841c.png"
+  },
+  {
+    "en": "In the northern skies, you are able to see two galaxies. These are the Andromeda Galaxy (M31), and the Triangulum Galaxy (M33)",
+    "image": "http://i.gyazo.com/fa3d9412c0a4e0140a36cdf46bb501c5.png"
+  },
+  {
+    "en": "The closest galaxy to us is the Andromeda Galaxy",
+    "image": "http://i.gyazo.com/fe2149c058ed8542cb3a6129e5c9b3b0.png"
+  },
+  {
+    "en": "The first Supernovae that was observed outside of our own galaxy was the S Andromeade, in the Andromeda galaxy in 1855",
+    "image": "http://i.gyazo.com/071a4f83ac2ec34e21310d7130dabc46.png"
+  },
+  {
+    "en": "The distance between the Sun and Earth is defined as an Astronomical Unit, or AU for short",
+    "image": "http://i.gyazo.com/27665d3873f53fef3754796421cf10d2.png"
+  },
+  {
+    "en": "The second man on the moon was Buzz Aldrin",
+    "image": "http://i.gyazo.com/fd25ad0342ca46105c165bbbba2d78aa.png"
+  },
+  {
+    "en": "“Moon” was Buzz Aldrin’s mother’s maiden name",
+    "image": "http://i.gyazo.com/5b8504c5da1f3ec6cf91e4376056b9df.png"
+  },
+  {
+    "en": "The Mariner 10 is the only spacecraft that has ever visited the planet Mercury. It managed to take pictures of about 45% of the surface",
+    "image": "http://i.gyazo.com/4276892297f1a73e72243c6dab37acd2.png"
+  },
+  {
+    "en": "If you shouted in space even if someone was right next to you they wouldn’t be able to hear you",
+    "image": "http://i.gyazo.com/5d16c948db28ad2c3bd5b4bbf2c77a30.png"
+  },
+  {
+    "en": "February in 1865 and 1999 are the only months in recorded history not to have a full moon",
+    "image": "http://i.gyazo.com/bbd1c2a80716ff4d229bce12437692f7.png"
+  },
+  {
+    "en": "The Kuiper Belt is a region of the Solar System beyond the orbit of Neptune",
+    "image": "http://i.gyazo.com/ebb5730ad1c130b426c823ee4956c8ff.png"
+  },
+  {
+    "en": "The first woman in space was Russian Valentina Tereshkova",
+    "image": "http://i.gyazo.com/06e6cae935fcd24e8f5aaec2c4cf5579.png"
+  },
+  {
+    "en": "There are currently 166 moons in our solar system",
+    "image": "http://i.gyazo.com/44a90804b2eb6edc19960cee21ca47b2.png"
+  },
+  {
+    "en": "The largest star known to man is R136a1, which has a mass of 265-320 times that of our sun",
+    "image": "http://i.gyazo.com/25ccf0569fa392d0976addcde29a69d8.png"
+  },
+  {
+    "en": "The first artificial satellite in space was called sputnik",
+    "image": "http://i.gyazo.com/8d027d6f2e47b720dc6bcd8f05eaa51c.png"
+  },
+  {
+    "en": "The furthest away galaxy from Earth, that has been discovered, is GRB 090423, which is 13.6 billion light years away",
+    "image": "http://i.gyazo.com/05acdae0852656a76f54929e23b74077.png"
+  },
+  {
+    "en": "The largest black hole known to man is the Quasar OJ287, and has an expected mass of 18 billion times that of our own sun",
+    "image": "http://i.gyazo.com/78a8b1f1aef9f0b798c738f18bd0a6b0.png"
+  },
+  {
+    "en": "Our moon is moving away from Earth at a rate of 4cm (1.6 Inches) per year",
+    "image": "http://i.gyazo.com/be6b43bb0b0a0d5350d6b6a1a648ec77.png"
+  },
+  {
+    "en": "Pluto is named after the Roman god of the underworld, not the Disney Dog",
+    "image": "http://i.gyazo.com/acaf193220061fb20202bb4c25eb5628.png"
+  },
+  {
+    "en": "Although Saturn is the second largest planet in our solar system, it is also the lightest planet",
+    "image": "http://i.gyazo.com/72da6f3ef2667c0aee0a4086550e4085.png"
+  },
+  {
+    "en": "Asteroids are the byproducts of formations in the solar system, more than 4 billion years ago",
+    "image": "http://i.gyazo.com/50894e03f3a76bcbdff6ec70354ceba7.png"
+  },
+  {
+    "en": "Uranus was originally called “George’s Star”",
+    "image": "http://i.gyazo.com/e32be9ea46243d594dcc911a8ad9e930.png"
+  },
+  {
+    "en": "The Sun loses up to a billion kilogrammes per second due to the solar winds",
+    "image": "http://i.gyazo.com/650bf59992ca62b4cae6325e7727d2c6.png"
+  },
+  {
+    "en": "As Saturn has a very low density, if you were able to put it into water, it would float",
+    "image": "http://i.gyazo.com/cf27ca3032b4a7a8490719a5332f5988.png"
+  },
+  {
+    "en": "The term “astronaut” is derived from the Greek words Ã¡stron, meaning “star”, and nautes, which means “sailor”",
+    "image": "http://i.gyazo.com/1da279653d4dc4459c2b08ae9813cea3.png"
+  },
+  {
+    "en": "All together, the space travellers have spent just over 30,400 days (83 years) in space",
+    "image": "http://i.gyazo.com/538dec5ea2ea734a79396c7d0e878d93.png"
+  },
+  {
+    "en": "Sergei K. Krikalevo has spent more time in space than anyone else. He has racked up a total of 803 days",
+    "image": "http://i.gyazo.com/4d8e80cd5a1f0d48d3046380aa424e8c.png"
+  },
+  {
+    "en": "Only 24 people have ever seen our whole planet from Space",
+    "image": "http://i.gyazo.com/14623a328c5d032461a2b3737fc42fd3.png"
+  },
+  {
+    "en": "Red Dwarf stars that are low in mass can burn continually for up to 10 trillion years",
+    "image": "http://i.gyazo.com/0ca20af8e4d459298fc0b08e0bade7c0.png"
+  },
+  {
+    "en": "Jupiter is known as the dumping ground for our solar system, as a large percentage of asteroids are pulled in by Jupiter’s gravity",
+    "image": "http://i.gyazo.com/8b525918f8fc65bb2a1d278d9f90855d.png"
+  },
+  {
+    "en": "A day on Mercury is equivalent to 58 Earth days, and a year is equivalent to 88 days",
+    "image": "http://i.gyazo.com/37be6ff0956e14bbabfaccb635aa8498.png"
+  },
+  {
+    "en": "As space has no gravity, normal pens won’t work",
+    "image": "http://i.gyazo.com/e6e1bda3a34883584536139ec97e883d.png"
+  },
+  {
+    "en": "On average it takes the light only 1.3 seconds to travel from the moon to the earth",
+    "image": "http://i.gyazo.com/6ddc8d2921a30131239678f8dbdc2ddf.png"
+  },
+  {
+    "en": "The centre of a comet is called a nucleus",
+    "image": "http://i.gyazo.com/3254430634746270036978776a4038cf.png"
+  },
+  {
+    "en": "As early as 240 B.C. the Chinese began to document the appearance of Halley’s Comet",
+    "image": "http://i.gyazo.com/1ad5d07cf5b40b8f6ae3c389778ee25b.png"
+  },
+  {
+    "en": "There are now 4 dwarf planets in the Solar System: Ceres, Pluto, Eris and Makemake",
+    "image": "http://i.gyazo.com/65a4fba4d8f871bcc043ec6b3ac26171.png"
+  },
+  {
+    "en": "Buzz Lightyear has been out in space. He has spent 15 months on board the International Space Station",
+    "image": "http://i.gyazo.com/3a92c63713bd1fb60e40b0ba9b67053d.png"
+  }
+]
