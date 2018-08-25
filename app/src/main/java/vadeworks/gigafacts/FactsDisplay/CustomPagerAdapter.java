@@ -89,6 +89,10 @@ class CustomPagerAdapter extends PagerAdapter {
             }
         });
 
+
+
+
+
         return itemView;
     }
 
